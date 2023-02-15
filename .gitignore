@@ -103,5 +103,5 @@ ENV/
 # ide
 .idea/
 
-# ssocr
-ssocr.py
+# ocr
+ocr.py
